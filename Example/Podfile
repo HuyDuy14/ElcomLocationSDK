@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ElcomLocationSDK_Example' do
+  pod 'ElcomLocationSDK', :path => '../'
+
+  target 'ElcomLocationSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
