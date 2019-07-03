@@ -1,0 +1,16 @@
+PODS:
+  - ElcomLocationSDK (0.1.0)
+
+DEPENDENCIES:
+  - ElcomLocationSDK (from `../`)
+
+EXTERNAL SOURCES:
+  ElcomLocationSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ElcomLocationSDK: 36d4d80c94add32d3c914ce5f9735002c2dd04dd
+
+PODFILE CHECKSUM: ebacb0273a745e18ff7bb6b673bbc6fda796f235
+
+COCOAPODS: 1.7.2
